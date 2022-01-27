@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fcc.Aeat.Core.Data\Fcc.Aeat.Core.Data.csproj" />
+    <ProjectReference Include="..\Fcc.Aeat.Factura.Contracts\Fcc.Aeat.Factura.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

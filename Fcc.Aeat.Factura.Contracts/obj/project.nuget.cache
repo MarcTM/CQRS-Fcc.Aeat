@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNyhNYKAG7zMy47+6R4R2f9hEC7kADSbFUstU8pd6LFn3Az86tqeLjbUfzFvSlWpu0UZjM7ouGcf0Q8W9pPQLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marctorr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

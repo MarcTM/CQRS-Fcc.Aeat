@@ -1,0 +1,12 @@
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\bin\Release\net5.0\Fcc.Aeat.Core.Data.deps.json
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\bin\Release\net5.0\Fcc.Aeat.Core.Data.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\bin\Release\net5.0\ref\Fcc.Aeat.Core.Data.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\bin\Release\net5.0\Fcc.Aeat.Core.Data.pdb
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.csproj.AssemblyReference.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.AssemblyInfo.cs
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\ref\Fcc.Aeat.Core.Data.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Core.Data\obj\Release\net5.0\Fcc.Aeat.Core.Data.pdb

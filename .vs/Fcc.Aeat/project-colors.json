@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2605386e-256d-4442-9079-e123b8b21eb5": {
+      "ProjectGuid": "2605386e-256d-4442-9079-e123b8b21eb5",
+      "DisplayName": "Fcc.Aeat.Core.Data",
+      "ColorIndex": 0
+    },
+    "efb1fde0-d243-46c5-8622-1b7a8a3bce30": {
+      "ProjectGuid": "efb1fde0-d243-46c5-8622-1b7a8a3bce30",
+      "DisplayName": "Fcc.Aeat.Core.Resources",
+      "ColorIndex": 1
+    },
+    "80b0a986-8443-4fd0-bd5d-93a2c53c8b07": {
+      "ProjectGuid": "80b0a986-8443-4fd0-bd5d-93a2c53c8b07",
+      "DisplayName": "Fcc.Aeat.Factura",
+      "ColorIndex": 2
+    },
+    "011edeed-a731-4503-af00-9aa5e999f881": {
+      "ProjectGuid": "011edeed-a731-4503-af00-9aa5e999f881",
+      "DisplayName": "Fcc.Aeat.Factura.Contracts",
+      "ColorIndex": 3
+    },
+    "63d7e6da-e4c6-4b9a-978c-35efa36372a0": {
+      "ProjectGuid": "63d7e6da-e4c6-4b9a-978c-35efa36372a0",
+      "DisplayName": "Fcc.Aeat.Factura.Queries",
+      "ColorIndex": 4
+    },
+    "f39fb9e0-89ba-4691-9363-acdc4b8f37ca": {
+      "ProjectGuid": "f39fb9e0-89ba-4691-9363-acdc4b8f37ca",
+      "DisplayName": "Fcc.Aeat.Api",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,12 @@
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\bin\Debug\net5.0\Fcc.Aeat.Factura.Contracts.deps.json
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\bin\Debug\net5.0\Fcc.Aeat.Factura.Contracts.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\bin\Debug\net5.0\ref\Fcc.Aeat.Factura.Contracts.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\bin\Debug\net5.0\Fcc.Aeat.Factura.Contracts.pdb
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.csproj.AssemblyReference.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.AssemblyInfoInputs.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.AssemblyInfo.cs
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\ref\Fcc.Aeat.Factura.Contracts.dll
+C:\Users\marctorr\source\repos\Fcc.Aeat\Fcc.Aeat.Factura.Contracts\obj\Debug\net5.0\Fcc.Aeat.Factura.Contracts.pdb

@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Api\\Fcc.Aeat.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Api\\Fcc.Aeat.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Api\\Fcc.Aeat.Api.csproj",
+        "projectName": "Fcc.Aeat.Api",
+        "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Api\\Fcc.Aeat.Api.csproj",
+        "packagesPath": "C:\\Users\\marctorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marctorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj"
+              },
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\Fcc.Aeat.Factura.Queries.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\Fcc.Aeat.Factura.Queries.csproj"
+              },
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\Fcc.Aeat.Factura.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\Fcc.Aeat.Factura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj",
+        "projectName": "Fcc.Aeat.Core.Data",
+        "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj",
+        "packagesPath": "C:\\Users\\marctorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marctorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj",
+        "projectName": "Fcc.Aeat.Factura.Contracts",
+        "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj",
+        "packagesPath": "C:\\Users\\marctorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marctorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\Fcc.Aeat.Factura.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\Fcc.Aeat.Factura.Queries.csproj",
+        "projectName": "Fcc.Aeat.Factura.Queries",
+        "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\Fcc.Aeat.Factura.Queries.csproj",
+        "packagesPath": "C:\\Users\\marctorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marctorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj"
+              },
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\Fcc.Aeat.Factura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\Fcc.Aeat.Factura.csproj",
+        "projectName": "Fcc.Aeat.Factura",
+        "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\Fcc.Aeat.Factura.csproj",
+        "packagesPath": "C:\\Users\\marctorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marctorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Core.Data\\Fcc.Aeat.Core.Data.csproj"
+              },
+              "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj": {
+                "projectPath": "C:\\Users\\marctorr\\source\\repos\\Fcc.Aeat\\Fcc.Aeat.Factura.Contracts\\Fcc.Aeat.Factura.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
